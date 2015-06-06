@@ -111,11 +111,11 @@ color: rgb(51, 51, 51);
     text-align: center;
   }
 
-#first-review{
-  height: 440px;
+#first-review, #second-review{
+  height: 500px;
   padding-bottom: 100px;
 }
-#first-review .content{
+#first-review .content, #second-review .content{
     float: left;
 }
 
@@ -149,16 +149,15 @@ color: rgb(51, 51, 51);
    text-transform: uppercase;
 }
 
-  #first-review .left{
+  #first-review .left, #second-review .left{
     margin-top: 155px;
   }
-  #first-review .right{
+  #first-review .right, #second-review .right{
     margin-top: 100px;
   }
-  #first-review-img{
+  #first-review-img, #second-review-img{
     width: 50%;
   }
-
 
 /*FOOTER*/
 footer{
@@ -264,7 +263,7 @@ footer p{
     #first-review .left{
       margin-top: 50px;
     }
-    #footer, #first-review-img{
+    #footer, #first-review-img, #second-review-img{
       margin: 0 auto;
       width: 270px;
     }
