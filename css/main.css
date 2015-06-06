@@ -126,6 +126,7 @@ color: rgb(51, 51, 51);
     z-index: 2;
     width: 1240px;
     margin: 0 auto;
+    text-align: center;
   }
   .content{
     width: 480px;
@@ -212,17 +213,17 @@ footer p{
   #intro .right{
     margin-top: 50px;
   }
-  #first-review{
+  #first-review, #second-review{
     height: 540px;
 
   }
-  #first-review .left{
+  #first-review .left, #second-review .left{
     margin-top: 100px;
   }
-  #first-review .right{
+  #first-review .right, #second-review .right{
     margin-top: 45px;
   }
-  #first-review .content{
+  #first-review .content, #second-review .content{
     float: none;
 }
 }
@@ -265,7 +266,7 @@ footer p{
     }
     #footer, #first-review-img, #second-review-img{
       margin: 0 auto;
-      width: 270px;
+/*      width: 50%;*/
     }
 
   }
