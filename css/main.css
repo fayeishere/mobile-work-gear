@@ -103,6 +103,7 @@ nav{
     background-position: cover;
     height: auto;
 }
+.darken {position: absolute; top: 0px; bottom: 0px; left: 0px; right: 0px; background-color: rgba(0, 0, 0, 0.3); z-index: 1; }
   .section-wrap .left, .section-wrap .right{
     margin: 0 auto;
   }
