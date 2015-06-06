@@ -111,11 +111,11 @@ color: rgb(51, 51, 51);
     text-align: center;
   }
 
-#first-review, #second-review{
-  height: 500px;
+.review{
+  height: 400px;
   padding-bottom: 100px;
 }
-#first-review .content, #second-review .content{
+.review .content{
     float: left;
 }
 
@@ -150,10 +150,10 @@ color: rgb(51, 51, 51);
    text-transform: uppercase;
 }
 
-  #first-review .left, #second-review .left{
+  .review .left{
     margin-top: 155px;
   }
-  #first-review .right, #second-review .right{
+  .review .right{
     margin-top: 100px;
   }
   #first-review-img, #second-review-img{
@@ -213,19 +213,19 @@ footer p{
   #intro .right{
     margin-top: 50px;
   }
-  #first-review, #second-review{
+  .review{
     height: 540px;
 
   }
-  #first-review .left, #second-review .left{
+  .review .left{
     margin-top: 100px;
   }
-  #first-review .right, #second-review .right{
+  .review .right{
     margin-top: 45px;
   }
-  #first-review .content, #second-review .content{
+  .review .content{
     float: none;
-}
+    }
 }
 
   /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
