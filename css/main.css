@@ -27,10 +27,11 @@ a{
 /*GLOBAL*/
 
 h1{
-  font-size: 64px;
-  color: #fff;
-  font-family: "HelveticaNeue-UltraLight", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-size: 78px;
+   color: #FFF;
+   font-family: "Economica",sans-serif;
 }
+
 h1, h2{
   text-transform: capitalize;
 
@@ -138,10 +139,12 @@ nav{
     margin-top: 55px;
   }
   #intro .left p{
-    margin-top: 20px;
-    font-size: 24px;
-    line-height: 32px;
-    color: #fff;
+
+   margin-top: 20px;
+   font-size: 37px;
+   line-height: 32px;
+   color: #FFF;
+   font-family: "Amatic SC";
   }
 
   #first-review .left{
