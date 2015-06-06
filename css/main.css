@@ -52,29 +52,28 @@ p{
 
 
 /*HEADER*/
-#head{
-  background-color: #ffffff;
-  height: 80px;
+#head {
+  background-color: rgba(0,0,0,.8);
+  height: 60px;
   z-index: 200;
-  border-bottom: 1px solid #dcdcdc;
+  border-bottom: 1px solid #000;
   width: 100%;
   position: absolute;
-
 }
 #head a{
-  font-family: "proxima-nova", sans-serif;
+  font-family: "Economica", sans-serif;
   line-height: 15px;
 }
 
 nav{
-  margin-top: 30px;
-    text-align: center;
+  margin-top: 20px;
+  text-align: center;
 }
-.quicklink{
+.quicklink {
   padding-right: 30px;
   font-size: 12px;
   text-transform: uppercase;
-  color: #066dab;
+  color: #ccc;
 }
 /*MAIN*/
 
