@@ -99,7 +99,7 @@ color: rgb(51, 51, 51);
     background: radial-gradient(ellipse at center,  rgba(6,109,171,1) 0%,rgba(197,222,234,1) 100%); /* W3C */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#066dab', endColorstr='#c5deea',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 
-    background: transparent url("https://farm9.staticflickr.com/8330/8138975231_2122531f9b_o.jpg") no-repeat scroll center center / cover;
+    background: transparent url("/img/mobile-worker.jpg") no-repeat scroll center center / cover;
     background-position: cover;
     height: auto;
 }
