@@ -138,14 +138,14 @@ nav{
   #intro .left{
     margin-top: 55px;
   }
-  #intro .left p{
-
+#intro .left p {
    margin-top: 20px;
-   font-size: 37px;
+   font-size: 26px;
    line-height: 32px;
    color: #FFF;
-   font-family: "Amatic SC";
-  }
+   font-family: "Economica";
+   text-transform: uppercase;
+}
 
   #first-review .left{
     margin-top: 155px;
