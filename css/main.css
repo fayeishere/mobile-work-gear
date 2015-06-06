@@ -107,10 +107,6 @@ nav{
   .section-wrap .left, .section-wrap .right{
     margin: 0 auto;
   }
-  #intro{
-    height: 320px;
-
-  }
   #intro .left{
     text-align: center;
   }
