@@ -165,12 +165,15 @@ footer{
   padding: 40px 0;
   height: 170px;
   text-align: center;
+  margin: 0 auto;
+  width: 50%;
 }
 footer p{
   color: #9b9b9b;
   font-size: 14px;
   line-height: 16px;
   padding-bottom: 25px;
+  padding-top: 25px;
 }
 
 
@@ -214,7 +217,7 @@ footer p{
     margin-top: 50px;
   }
   .review{
-    height: 540px;
+    height: 640px;
 
   }
   .review .left{
@@ -256,7 +259,7 @@ footer p{
       font-size: 14px;
     }
     #first-review{
-      height: 475px;
+      height: 775px;
     }
     #intro .section-wrap{
       width: 320px;
@@ -267,6 +270,9 @@ footer p{
     #footer, #first-review-img, #second-review-img{
       margin: 0 auto;
 /*      width: 50%;*/
+    }
+    #footer {
+        padding-bottom: 15px;
     }
 
   }
